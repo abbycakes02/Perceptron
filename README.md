@@ -7,5 +7,6 @@ How to view: Click the open in collab button
 I created a project that uses sklearn and matplotlib to implement a perceptron from scratch and to visualize the boundary that it will create between “positive” and “negative” class labels in a binary classification problem. 
 
 Part2:
-# Neural Networks:
+Date created: 08/11/2023
+# Neural Networks: 
 I expanded upon the project by learning about the architecture of a multilayer perceptron and utilized tensorflow to see how effective neural networks are and how can we attune hyperparameters, the number of hidden layers, and the number of different hidden layer nodes leading to better performance. 
